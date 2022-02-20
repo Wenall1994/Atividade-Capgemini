@@ -33,5 +33,5 @@ java Atividade3.class
 <h2>Tecnologias utilizadas</h2>
 
 Padrão de projeto Maven,
-Java Orientado a objeto,
-IDE e InteliJ
+Java Orientado a objeto e a
+IDE InteliJ
