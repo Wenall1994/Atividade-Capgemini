@@ -14,24 +14,24 @@ java Atividade1.class
 
 para compilar a segunda atividade , digite o comando:
 ```shell script  
-javac Atividade1.java
+javac Atividade2.java
 ```
 para executar a segunda atividade, digite o comando:
 ```shell script  
-java Atividade1.class
+java Atividade2.class
 ```
 
 para compilar a terceira atividade, digite o comando:
 ```shell script  
-javac Atividade1.java
+javac Atividade3.java
 ````
 para executar a terceira atividade, digite o comando:
 ```shell script  
-java Atividade1.class 
+java Atividade3.class 
 ```
 
 <h2>Tecnologias utilizadas</h2>
 
 Padrão de projeto Maven
-Java Orientada a objeto
+Java Orientado a objeto
 IDE InteliJ
