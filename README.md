@@ -1,6 +1,6 @@
 # Atividade-Capgemini
  Respostas das atividades do desafio capgemini
-<h1>Execultando os programas</h1>
+<h1>Executando os programas</h1>
 Abra o CMD navegue até o diretório src/main/java
 
 para compilar a primeira atividade, digite o comando:
